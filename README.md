@@ -3,4 +3,5 @@
 Written in JavaScript using Node.js
 
 To Use:
-Run command `node node groceryList.js`
+All code is written in `groceryList.js`.
+Run command `node groceryList.js` where the file is stored.
